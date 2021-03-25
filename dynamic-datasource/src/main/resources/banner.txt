@@ -1,0 +1,5 @@
+				 ___  ___ .___._ _ _ 
+				/ . || . \ / /| ' ' |
+				\_  ||  _//___|_|_|_|
+				  |_||_|             
+Project version: 多数据源、动态数据源   Spring boot version: ${spring-boot.formatted-version}
