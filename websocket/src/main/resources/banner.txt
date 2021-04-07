@@ -1,0 +1,5 @@
+				 ___  ___ .___._ _ _ 
+				/ . || . \ / /| ' ' |
+				\_  ||  _//___|_|_|_|
+				  |_||_|             
+Project version: websocket应用  Spring boot version: ${spring-boot.formatted-version}
